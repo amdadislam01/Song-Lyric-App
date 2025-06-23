@@ -16,7 +16,7 @@ A web application that fetches and displays song lyrics using music API integrat
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,api,github" alt="Tech Stack" width="350"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,github" alt="Tech Stack" width="350"/>
 </p>
 
 ## 🎧 Demo Preview
