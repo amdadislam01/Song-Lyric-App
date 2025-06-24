@@ -22,3 +22,9 @@ A web application that fetches and displays song lyrics using music API integrat
 ## 🎧 Demo Preview
 
 <img src="https://i.imgur.com/t9haJGC.png" alt="Main Page" width="1000"/>
+
+
+##  Lyric Song
+
+
+<img src="https://i.imgur.com/jSHI9W5.png" alt="Main Page" width="1000"/>
